@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/akronim</item>
+        <item>@font/aladin</item>
+        <item>@font/aref_ruqaa</item>
+        <item>@font/berkshire_swash</item>
+        <item>@font/butterfly_kids</item>
+        <item>@font/carter_one</item>
+        <item>@font/caveat_bold</item>
+        <item>@font/margarine</item>
+        <item>@font/rock_salt</item>
+        <item>@font/sofia</item>
+    </array>
+</resources>
